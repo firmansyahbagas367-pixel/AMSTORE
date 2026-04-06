@@ -1,0 +1,2 @@
+# AMSTORE
+web
